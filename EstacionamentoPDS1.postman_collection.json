@@ -165,7 +165,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/veiculos?placa=GTX-43",
+							"raw": "http://localhost:8080/veiculos?placa=GTX-432",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -177,7 +177,7 @@
 							"query": [
 								{
 									"key": "placa",
-									"value": "GTX-43"
+									"value": "GTX-432"
 								}
 							]
 						}
